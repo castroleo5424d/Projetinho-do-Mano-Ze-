@@ -112,5 +112,4 @@
     </tbody>
   </table>
 
-  <hr class="divider">
 
