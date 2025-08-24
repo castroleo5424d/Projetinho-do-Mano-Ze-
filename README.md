@@ -114,11 +114,3 @@
 
   <hr class="divider">
 
-  <h2>✅ Benefícios Resumidos</h2>
-  <ul>
-    <li>Organização total das informações</li>
-    <li>Atendimento mais rápido e eficiente</li>
-    <li>Redução de tarefas manuais</li>
-    <li>Maior controle e previsibilidade</li>
-    <li>Crescimento sustentável com foco no cliente</li>
-  </ul>
